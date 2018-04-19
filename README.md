@@ -26,3 +26,11 @@ Sebastian Morales Prado
 
 Shout out to ITP & Tisch admin team who helped me for space and equipment
 Thank you, ITP family, and friends who always support me, feed me, lent me your chargers, give me love and came to the show 
+
+**Software_Libraries** 
+
+P5.speech written by R. Luke DuBois The ABILITY lab NYU
+
+Pronouncing python library written by Allison Parrish
+
+ML5.js is a high level JavaScript library for machine learning by a community of teachers residents and students at ITP NYU
