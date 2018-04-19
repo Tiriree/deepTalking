@@ -1,0 +1,21 @@
+//REPLY
+function botVariables(){
+  botPitch=(random(.2,1.7));
+  let botVoicePossible=[28,32,36,39];
+  botVoice=random(botVoicePossible);
+  botSpeed=(random(.2,2));
+  continuous=false;
+}
+
+function gotSpeech() {
+  lastSpeechTime=millis();
+  if (speechRec.resultValue && start && !waiting) {
+    let input = speechRec.resultString;
+    var words=input.split(' ');
+     // for (var i=0;i<words.length;i++){
+    console.log("sending: "+words[words.length-1]);
+      socket.emit("rhyme",words[words.length-1],1);
+      waiting=true;
+    //}
+  }
+}

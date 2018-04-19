@@ -1,0 +1,17 @@
+Turn All Group On/Off
+  turnGroup(group,val); //group:(0,1,2)->(reply, ml, rhyme)   val=(0,1)->(false,true)
+
+Turn Random Member of Group On/Off
+  turnGroupRan(group,val); //group:(0,1,2)->(reply, ml, rhyme)   val=(0,1)->(false,true)
+
+Turn All On/Off
+  startAll(val); //val is (0,1) or (false, true)
+
+Turn random On/Off
+  randStart(val); //val is (0,1) or (false, true)
+
+Make random computer say message
+  sayRandom("message"); //message is what you want to say, it has to be inside ""
+
+Make all computers say message:
+  say("message"); //message is what you want to say, it has to be inside ""

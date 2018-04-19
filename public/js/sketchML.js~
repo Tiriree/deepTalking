@@ -1,0 +1,32 @@
+//ML
+function botVariables(){
+  botPitch=1;
+  botVoice=11;
+  botSpeed=1.0;
+}
+
+function gotSpeech() {
+  lastSpeechTime=millis();
+  if (speechRec.resultValue && start) {
+    let input = speechRec.resultString;
+
+    if(input=="sing with me"){
+      say("la lah la lah la lah  oh oh oh");
+      say("la lah la lah la lah  oh oh oh");
+      return;
+    }
+    //ML
+    var words=input.split(' ');
+    var vecWords=[];
+    for (var i=0;i<words.length;i++){
+      var response= findNearest(words[i],5);
+      vecWords.push(response);
+    }
+    var sentence=vecWords.join(' ');
+
+    speech.speak(sentence);
+    background(255);
+    text(sentence, width/2, height/2, width,height);
+    console.log(input);
+  }
+}
