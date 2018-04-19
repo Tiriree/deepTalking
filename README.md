@@ -1,5 +1,7 @@
 # deepTalking
 
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicall.gif" rel="attachment wp-att-1098"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicall.gif" alt="musicall" width="960" height="540" class="alignleft size-full wp-image-1098" /></a>
+
 
 Shout out to the incredible team who made the show happened 
 
