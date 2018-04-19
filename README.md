@@ -15,7 +15,7 @@ Lola Regina Sofia Cantu de Alba, Rushali Paratey, Akmyrat Tuyliyev
 Admin team
 Sharif Hadidi, Kritchaya Twitchsri, Dominic Barrett, Woraya Boonyapanachoti
 
-Advisers - Seriously, You have no idea how much they had to listen to my crazy thoughts for the whole semester(some of them is the whole 2 years). They all helped me develop my project and life!
+Advisers
 Mimi Yin, Gabriel Barcia-Colombo, Allison Parrish, Luke Dubois, Daniel Shiffman, Pedro Oliveira, Sam Lavigne, Sarah Rothberg, ITP residents
 
 Everything 
