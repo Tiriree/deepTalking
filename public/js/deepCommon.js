@@ -36,7 +36,7 @@ let fonts = ['Impact', 'Arial', 'Arial Black', 'Helvetica', 'Gill Sans'];
 let fontSize = ['100', '200' , '300' , '400'];
 
 //ML
-const word2Vec = new ml5.Word2Vec('js/data/vectorsPhantom.json', modelLoaded);
+const word2Vec = new ml5.Word2Vec('js/data/wordvecs10000.json', modelLoaded);
 let modelReady = false;
 
 function setup(){
