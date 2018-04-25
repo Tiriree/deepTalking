@@ -18,7 +18,7 @@ function gotSpeech() {
     var words=input.split(' ');
     var vecWords=[];
     for (var i=0;i<words.length;i++){
-      var response= findNearest(words[i],5);
+      var response= findNearest(words[i],1);
       vecWords.push(response);
     }
     var sentence=vecWords.join(' ');
