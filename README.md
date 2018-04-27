@@ -1,9 +1,12 @@
 # deepTalking
 
-  [https://deep.tiri.xxx/reply](https://deep.tiri.xxx/reply)
-  [https://deep.tiri.xxx/ml](https://deep.tiri.xxx/ml)
-  [https://deep.tiri.xxx/rhyme](https://deep.tiri.xxx/rhyme)
-  [https://deep.tiri.xxx/control](https://deep.tiri.xxx/control)
+   [https://deep.tiri.xxx/reply](https://deep.tiri.xxx/reply)
+   
+   [https://deep.tiri.xxx/ml](https://deep.tiri.xxx/ml)
+   
+   [https://deep.tiri.xxx/rhyme](https://deep.tiri.xxx/rhyme)
+   
+   [https://deep.tiri.xxx/control](https://deep.tiri.xxx/control)
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicalloptimizer.gif" rel="attachment wp-att-1122"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicalloptimizer.gif" alt="musicalloptimizer" width="762" height="408" class="aligncenter size-full wp-image-1122" /></a>
 
