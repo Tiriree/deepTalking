@@ -13,6 +13,7 @@
 *Can technology be trained to deliberately commit mistakes in order to help spark creative improvisation in performers and artists?*
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926.jpg" rel="attachment wp-att-1135"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926-1024x683.jpg" alt="DSCF3926" width="512" height="342" class="aligncenter size-large wp-image-1135" /></a>
+Photo by Leon Eckert
 
 **Abstract**
 
@@ -140,5 +141,6 @@ She went to the same undergrad with Jann but in exhibition design.Every time Jan
 
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072.jpg" rel="attachment wp-att-1137"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072-683x1024.jpg" alt="DSCF4072" width="683" height="1024" class="aligncenter size-large wp-image-1137" /></a>
+Photo by Leon Eckert
 
 [https://deep.tiri.xxx](https://deep.tiri.xxx)
