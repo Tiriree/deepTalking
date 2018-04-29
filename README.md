@@ -1,5 +1,7 @@
 # deepTalking 
 
+   Full documentation [https://deep.tiri.xxx](https://deep.tiri.xxx)
+
    [https://deep.tiri.xxx/reply](https://deep.tiri.xxx/reply)
    
    [https://deep.tiri.xxx/ml](https://deep.tiri.xxx/ml)
@@ -116,6 +118,7 @@ Sharif Hadidi, Kritchaya Twitchsri, Dominic Barrett, Woraya Boonyapanachoti
 Mimi Yin, Gabriel Barcia-Colombo, Allison Parrish, Luke Dubois, Daniel Shiffman, Pedro Oliveira, Sam Lavigne, Sarah Rothberg, ITP residents
 
 **Special Thanks**
+
 Sejo Manuel Vega Cebrian, Jeffrey Yunil Park, February Punwattana, Net Sirisantana
 
 **Everything** 
@@ -143,4 +146,4 @@ She went to the same undergrad with Jann but in exhibition design.Every time Jan
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072.jpg" rel="attachment wp-att-1137"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072-683x1024.jpg" alt="DSCF4072" width="683" height="1024" class="aligncenter size-large wp-image-1137" /></a>
 Photo by Leon Eckert
 
-[https://deep.tiri.xxx](https://deep.tiri.xxx)
+
