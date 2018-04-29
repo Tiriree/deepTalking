@@ -1,4 +1,4 @@
-# deepTalking
+# deepTalking 
 
    [https://deep.tiri.xxx/reply](https://deep.tiri.xxx/reply)
    
@@ -12,7 +12,7 @@
 
 *Can technology be trained to deliberately commit mistakes in order to help spark creative improvisation in performers and artists?*
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926.jpg" rel="attachment wp-att-1135"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926.jpg" alt="DSCF3926" width="6000" height="4000" class="aligncenter size-full wp-image-1135" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926.jpg" rel="attachment wp-att-1135"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926-300x200.jpg" alt="DSCF3926" width="300" height="200" class="aligncenter size-medium wp-image-1135" /></a>
 
 **Abstract**
 
@@ -139,4 +139,6 @@ ML5.js is a high level JavaScript library for machine learning by a community of
 She went to the same undergrad with Jann but in exhibition design.Every time Jann’s class sang next to her class, She always lip synced them. Now she studies programming at ITP NYU. She still can’t sing. During her time in school, she made a program to sing for her instead. She also explored with machine learning to think for her. Actually, this bio was written by a machine
 
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4063.jpg" rel="attachment wp-att-1136"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4063-683x1024.jpg" alt="DSCF4063" width="683" height="1024" class="aligncenter size-large wp-image-1136" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072.jpg" rel="attachment wp-att-1137"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF4072-200x300.jpg" alt="DSCF4072" width="200" height="300" class="aligncenter size-medium wp-image-1137" /></a>
+
+[https://deep.tiri.xxx](https://deep.tiri.xxx)
