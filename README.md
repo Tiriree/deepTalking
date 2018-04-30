@@ -12,10 +12,7 @@
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicalloptimizer.gif" rel="attachment wp-att-1122"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/musicalloptimizer.gif" alt="musicalloptimizer" width="762" height="408" class="aligncenter size-full wp-image-1122" /></a>
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926.jpg" rel="attachment wp-att-1135"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/DSCF3926-1024x683.jpg" alt="DSCF3926" width="512" height="342" class="aligncenter size-large wp-image-1135" /></a>
-Photo by Leon Eckert
 
-	
 Three types of bots:
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x302.gif" rel="attachment wp-att-1148"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x302.gif" alt="Large GIF (542x302)" width="542" height="302" class="aligncenter size-full wp-image-1148" /></a>
@@ -35,7 +32,7 @@ All bots have random speed and pitch. These spark machine errors while listening
 
 All Three bots 
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/03/toomuchtoolittleLarge.gif" rel="attachment wp-att-1086"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/03/toomuchtoolittleLarge.gif" alt="toomuchtoolittleLarge" width="762" height="408" class="aligncenter size-full wp-image-1086" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/toolittleS.gif" rel="attachment wp-att-1151"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/toolittleS.gif" alt="toolittleS" width="400" height="214" class="aligncenter size-full wp-image-1151" /></a>
 
   
 ## Usage
