@@ -42,7 +42,7 @@ All Three bots
 [Using Gensim Python](https://github.com/shiffman/p5-word2vec/tree/master/train) 
 
 
-## Shout out to the incredible team who made the show happened 
+## Shout out to the incredible team who made the show happen 
 
 **My amazing collaborator**
 
